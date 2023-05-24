@@ -1,27 +1,27 @@
-# This Repository is focused on GPT + LLMs study. It is directly connected with exploration on creative implementations.
+# 🎓 GPT - Ignition: Understanding, Studying & Mastering AI, GPT, and LLMs! 🧠
 
-## Considerations will be made further on the project. Notebooks will have comments and explanations.
-### Feel free to DM me on Linkedin or send an email if you have any questions or suggestions.
+## This Repository is focused on GPT + LLMs study. It is directly connected with exploration on creative implementations.
 
-# 🎓 AI-Study-Hub: Understand, Learn & Master AI, GPT, and LLMs! 🧠
+### Considerations will be made further on the project. Notebooks will have comments and explanations.
+#### Feel free to DM me on Linkedin or send an email if you have any questions or suggestions.
 
 <p align="center">
-  <img src="https://link-to-your-logo/logo.png" alt="AI-Study-Hub Logo" width="250"/>
+  <img src="https://www.microsoft.com/en-us/research/uploads/prod/2020/07/newsletter-option-8-neural-network-3-1-640x360.png" alt="image" width="250"/>
 </p>
 
 <p align="center">
-    <a href="https://badge-for-the-build-status.com"><img src="https://badge-for-the-build-status.com" alt="Build Status"></a>
-    <a href="https://badge-for-coverage-report.com"><img src="https://badge-for-coverage-report.com" alt="Coverage Status"></a>
-    <a href="https://badge-for-the-license.com"><img src="https://badge-for-the-license.com" alt="License"></a>
+    <img src="https://img.shields.io/badge/study%3F-yes!-brightgreen" alt="Build Status">
+    <img src="https://img.shields.io/badge/GPT%3F-is%20awesome-blue" alt="Build Status">
+    <img src="https://img.shields.io/badge/Do%20I%20know%20what%20I'm%20doing-I%20have%20half%20an%20idea-red" alt="Build Status">
 </p>
 
 ---
 
 ## 📚 About
 
-Welcome to **AI-Study-Hub**! This repository is designed to be your one-stop-shop to understand and master the fascinating world of artificial intelligence, with a specific focus on Generative Pretrained Transformers (GPT) and Large Language Models (LLMs).
+Welcome to **GPT - Ignition**! This repository is designed to be our one-stop-shop to understand and study the fascinating world of artificial intelligence, with a specific focus on Generative Pretrained Transformers (GPT) and Large Language Models (LLMs).
 
-Whether you're an AI enthusiast, a student, a researcher, or a seasoned practitioner, this hub is a place for you. Join us on this exciting journey and let's create a better future, together!
+Whether you're an AI enthusiast, a student, a researcher, or a seasoned practitioner, this repo is a place for you. Join us on this exciting journey and let's create a better future, together!
 
 ![AI Study Image](https://link-to-ai-image.com/ai_study.png)
 
