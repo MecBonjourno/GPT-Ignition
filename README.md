@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/study%3F-yes!-brightgreen" alt="Build Status">
-    <img src="https://img.shields.io/badge/GPT%3F-is%20awesome-blue" alt="Build Status">
-    <img src="https://img.shields.io/badge/Do%20I%20know%20what%20I'm%20doing-I%20have%20half%20an%20idea-red" alt="Build Status">
+    <img src="https://img.shields.io/badge/study%3F-yes!-brightgreen">
+    <img src="https://img.shields.io/badge/GPT%3F-is%20awesome-blue">
+    <img src="https://img.shields.io/badge/Do%20I%20know%20what%20I'm%20doing-I%20have%20half%20an%20idea-red">
 </p>
 
 ---
@@ -23,7 +23,9 @@ Welcome to **GPT - Ignition**! This repository is designed to be our one-stop-sh
 
 Whether you're an AI enthusiast, a student, a researcher, or a seasoned practitioner, this repo is a place for you. Join us on this exciting journey and let's create a better future, together!
 
-![AI Study Image](https://link-to-ai-image.com/ai_study.png)
+<p align="center">
+  <img src="https://cdn.leonardo.ai/users/7277ef1e-ff90-4a14-9e4d-26bbc0d2c6c6/generations/ba6ecf1f-753f-448f-b10a-5e5db133418c/Leonardo_Signature_A_bronze_statue_of_a_tall_man_stands_in_awe_2.jpg"/>
+</p>
 
 ---
 
