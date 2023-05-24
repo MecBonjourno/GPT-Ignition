@@ -19,7 +19,7 @@
 
 ## 📚 About
 
-Welcome to **GPT - Ignition**! This repository is designed to be our one-stop-shop to understand and study the fascinating world of artificial intelligence, with a specific focus on Generative Pretrained Transformers (GPT) and Large Language Models (LLMs).
+Welcome to **GPT - Ignition!** This repository is designed to be our one-stop-shop to understand and study the fascinating world of artificial intelligence, with a specific focus on Generative Pretrained Transformers (GPT) and Large Language Models (LLMs).
 
 Whether you're an AI enthusiast, a student, a researcher, or a seasoned practitioner, this repo is a place for you. Join us on this exciting journey and let's create a better future, together!
 
@@ -33,21 +33,29 @@ Whether you're an AI enthusiast, a student, a researcher, or a seasoned practiti
 
 1. **Introduction to AI:** Jumpstart your AI journey with a comprehensive introduction to artificial intelligence.
 
-    [Start Here ➡️](link-to-intro-to-ai.com)
+<!--     [Start Here ➡️](link-to-intro-to-ai.com) -->
+    Link coming soon
+    
+2. **GPT and LLMs:** Get to know the impressive LLMs, including the GPT series (GPT-3, GPT-3.5, GPT-3.5-turbo, chatGPT, GPT-4). And other models soon.
 
-2. **GPT and LLMs:** Get to know the impressive LLMs, including the GPT series (GPT-1, GPT-2, GPT-3, GPT-4).
-
-    [Dive Deeper ➡️](link-to-gpt-and-llms.com)
+<!--     [Dive Deeper ➡️](link-to-gpt-and-llms.com) -->
+    Link coming soon
 
 3. **Tutorials:** Practical, easy-to-follow tutorials covering a wide range of topics to help you get your hands dirty.
 
-    [Learn by Doing ➡️](link-to-tutorials.com)
+<!--     [Learn by Doing ➡️](link-to-tutorials.com) -->
+    Link coming soon
 
 ---
 
 ## 📂 Content Overview
 
-1. **Introduction to AI**
+Current Structure:
+  1. 📂 Agents - Dedicated to test and study Transformes Agents, from Hugging Face and LangChain
+  2. 📂 Embeddings And Langchain - Focuesd on studying and trying out different use cases to embed information and use it
+  3. 📂 TestData - The folder where I through things inside
+  4. 📂 Voice - The folder where Ignis is being developed. Ignis is a an Personal Assitant capable of doing actions by itself (kinda).
+<!-- 1. **Introduction to AI**
 2. **Deep Learning**
 3. **NLP (Natural Language Processing)**
 4. **GPT Overview**
@@ -58,25 +66,25 @@ Whether you're an AI enthusiast, a student, a researcher, or a seasoned practiti
 9. **Case Studies**
 10. **Research Papers & Other Resources**
 
-Find the detailed content structure [here](link-to-detailed-content-structure.com).
+Find the detailed content structure [here](link-to-detailed-content-structure.com). -->
 
 ---
 
 ## 🧰 Tools & Technologies
 
-Here are the major tools and technologies you will get to learn and work with:
+Here are the major tools and technologies we will get to learn and work with:
 
-- **Programming Languages:** Python, R, Julia
-- **AI Frameworks:** TensorFlow, PyTorch, Keras
+- **Programming Languages:** Python, Jupyter Notebooks, Python Frameworks, MOJO (🤔)
+- **Frameworks:** PyTorch, LangChain
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Data Manipulation:** Pandas, Numpy
-- **Natural Language Processing:** NLTK, SpaCy, Gensim
+- **Audio TTS & STT:** OpenAI's Whisper, ElevenLabs
 
 ---
 
 ## 👥 Community
 
-**AI-Study-Hub** is all about learning together. Here's how you can contribute and be a part of our community:
+**GPT - Ignition** is all about learning together. Here's how you can contribute and be a part of our community:
 
 1. **Issues:** Found a bug or want to suggest a feature? Raise an issue [here](link-to-issues.com).
 2. **Pull Requests:** Want to contribute code? We welcome all PRs. Check out our contributing guide [here](link-to-contributing-guide.com).
@@ -84,27 +92,19 @@ Here are the major tools and technologies you will get to learn and work with:
 
 ---
 
-## 📃 License
-
-
-
-This project is licensed under the terms of the [MIT license](link-to-license.com).
-
----
-
 ## 📫 Contact
 
-Feel free to contact us if you have any questions:
+Feel free to contact me if you have any questions:
 
-- [Your Name](mailto:your-email@example.com)
-- [Twitter](your-twitter-link)
-- [LinkedIn](your-linkedin-link)
+- [Email](mailto:contatogzii@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/guilhermezago1/)
 
 ---
 
 ## 💙 Support the Project
 
 If you found this project helpful, consider buying us a coffee or starring this repository. Your support is greatly appreciated!
+[Buy me a Coffee](buymeacoffee.com/mecbonjourno)
 
 ---
 
