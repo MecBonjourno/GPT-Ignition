@@ -1,4 +1,4 @@
-# 🎓 GPT - Ignition: Understanding, Studying & Mastering AI, GPT, and LLMs! 🧠
+# 🎓 GPT - Ignition: Understanding, Studying & Mastering AI, GPT, LLMs, AGENTS, and MORE! 🧠
 
 ## This Repository is focused on GPT + LLMs study. It is directly connected with exploration on creative implementations.
 
